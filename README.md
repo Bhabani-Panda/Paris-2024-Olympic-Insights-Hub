@@ -1,4 +1,4 @@
-# Paris-2024-Olympic-Insights-Hub
+# Paris 2024: Olympic Insights Hub
 ![banner](https://github.com/user-attachments/assets/da41a813-9e65-4855-8dd4-9cfe29415bcf)
 
 📊 **What You Get with This Dashboard**
