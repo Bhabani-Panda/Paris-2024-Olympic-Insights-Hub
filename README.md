@@ -1,4 +1,6 @@
 # Paris-2024-Olympic-Insights-Hub
+![banner](https://github.com/user-attachments/assets/da41a813-9e65-4855-8dd4-9cfe29415bcf)
+
 📊 **What You Get with This Dashboard**
 
 •	Comprehensive Olympic Data\
@@ -53,16 +55,19 @@ ________________________________________
 •	Includes interactive maps based on a country slicer and a sports slicer for dynamic exploration.
 
 2. Athletes\
+   ![2](https://github.com/user-attachments/assets/cd11b74e-1f31-4a26-9e36-7f5a5c1498fa)\
 •	Highlights the total number of male and female participants.\
 •	Breaks down medals by country, medal type, and gender.\
 •	Shows detailed insights into gender-specific medal distributions for gold, silver, and bronze.\
 •	Features a search bar to quickly find specific athletes.
 
 3. Country\
+   ![3](https://github.com/user-attachments/assets/b2767290-b309-418e-b21d-b66e02710ef7)\
 •	Provides key highlights, showcasing the top-performing country and its medal count\
 •	Includes a slicer for filtering data based on specific countries for tailored analysis.
 
 4. Historical Data\
+   ![4](https://github.com/user-attachments/assets/f1478263-3483-4bd7-80fd-285d723ab206)\
 •	Tracks medal distributions from 1896 to 2024, showing which countries won how many medals in specific sports.\
 •	Allows filtering by sport for a detailed historical performance overview.
 ________________________________________
