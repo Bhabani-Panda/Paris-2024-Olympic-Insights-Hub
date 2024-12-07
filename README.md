@@ -46,22 +46,22 @@ Gain hands-on experience with this project as a practical example of Power BI an
 ________________________________________
 📈 **Step-by-Step Visualizations in Power BI**
 
-1. Overview
+1. Overview\
 •	Displays key highlights, including the total number of gold, silver, and bronze medals won.\
 •	Visualizes medals by country and medal type, along with medals by country and gender.\
 •	Includes interactive maps based on a country slicer and a sports slicer for dynamic exploration.
 
-2. Athletes
+2. Athletes\
 •	Highlights the total number of male and female participants.
 Breaks down medals by country, medal type, and gender.\
 •	Shows detailed insights into gender-specific medal distributions for gold, silver, and bronze.\
 •	Features a search bar to quickly find specific athletes.
 
-3. Country
+3. Country\
 •	Provides key highlights, showcasing the top-performing country and its medal count\
 •	Includes a slicer for filtering data based on specific countries for tailored analysis.
 
-4. Historical Data
+4. Historical Data\
 •	Tracks medal distributions from 1896 to 2024, showing which countries won how many medals in specific sports.\
 •	Allows filtering by sport for a detailed historical performance overview.
 ________________________________________
